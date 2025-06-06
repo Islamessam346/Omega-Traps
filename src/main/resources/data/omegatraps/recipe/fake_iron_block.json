@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "GGG",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "G": {
+      "item": "minecraft:gray_wool"
+    }
+  },
+  "result": {
+    "id": "omegatraps:fake_iron_block",
+    "count": 1
+  }
+}

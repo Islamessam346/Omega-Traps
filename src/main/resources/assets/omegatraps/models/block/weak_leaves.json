@@ -1,0 +1,20 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "texture": "omegatraps:block/weak_leaves"
+  },
+  "elements": [
+    {
+      "from": [0, 14, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up":    { "texture": "#texture" },
+        "down":  { "texture": "#texture" },
+        "north": { "texture": "#texture" },
+        "south": { "texture": "#texture" },
+        "west":  { "texture": "#texture" },
+        "east":  { "texture": "#texture" }
+      }
+    }
+  ]
+}

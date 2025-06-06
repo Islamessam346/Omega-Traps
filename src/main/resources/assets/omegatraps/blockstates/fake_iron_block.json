@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "omegatraps:block/fake_iron_block"
+    }
+  }
+}
